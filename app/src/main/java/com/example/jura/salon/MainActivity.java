@@ -31,6 +31,7 @@ import java.util.Collections;
 import java.util.Date;
 import java.util.List;
 
+// *****************************JURA&&&&&&&&&&&&&&&&&&&&&&&&&&&&************//
 
 public class MainActivity extends AppCompatActivity implements  View.OnClickListener{
 
